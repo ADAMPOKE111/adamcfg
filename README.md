@@ -1,2 +1,2 @@
 # adamcfg
-adam's csgo config files, includes ske configs
+adam's vidya game config files, includes ske configs
